@@ -1,0 +1,4 @@
+This version of the project was a much more challenging one. Instead of controlling it with an arduino micro, it was controlled by
+an ESP32C3 XIAO using the arduino IDE and the BLE keyboard library. Some changes include a much much smaller case(about half the size), 
+changes to the case to include a place for the USB-C port to poke out, and a spot for the on/off switch. it's all powered by an 840mAh 
+LiPo battery contained inside the case. The top and bottom pieces are made to be held together with number 6 wood screws.
